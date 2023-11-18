@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110376165079",
+    "project_id": "dukan-7071b",
+    "storage_bucket": "dukan-7071b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110376165079:android:38ea2a9592db0314305a92",
+        "android_client_info": {
+          "package_name": "com.flutter.dukan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuG3Oh2Dv9EQei1UGm59NFpljN3zs4CnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
